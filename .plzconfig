@@ -1,0 +1,4 @@
+[go]
+GoTool = //tools/go:toolchain|go
+importpath = github.com/ekhabarov/plz-target-name-in-deps/app/prober
+
